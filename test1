@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif; /* يمكنك اختيار الخط الذي تفضله */
+    text-align: center;
+    margin-top: 50px; /* إضافة بعض المسافة من الأعلى */
+}
+
+.greeting p {
+    margin: 0;
+    font-size: 24px;
+}
+
+.line1 {
+    color: red; 
+}
+
+.line2 {
+    color: green; /* اللون الثاني */
+}
+
+.line3 {
+    color: blue; /* اللون الثالث */
+}
